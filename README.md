@@ -76,16 +76,13 @@ The goal of this project was to:
 
 ## 📸 Dashboard Preview
 
-*(Include a screenshot image here in your GitHub repo and link it below)*
-
-![Dashboard Preview](images/barista-dashboard-preview.png)
+![Dashboard Preview](https://github.com/viranch08/Barista_sales_Performance/blob/main/Barista_Sales_Performance.png)
 
 ---
 
 ## 📁 Files in Repository
 
 - `Barista_Sales_Dashboard.pbix` – Power BI project file
-- `barista_sales_data.csv` – Raw dataset
 - `README.md` – Project documentation
 
 ---
@@ -94,12 +91,10 @@ The goal of this project was to:
 
 If you’d like to connect or have feedback on this project, feel free to reach out:
 
-- [LinkedIn](https://www.linkedin.com/in/YOURUSERNAME/)
-- Email: yourname@email.com
+- [LinkedIn](https://www.linkedin.com/in/viranch-dadheech08)
+- Email: viranchdadheech9@gmail.com
 
 ---
 
-## 🔖 License
 
-This project is for **educational and portfolio purposes only**.
 
